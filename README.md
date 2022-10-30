@@ -23,7 +23,16 @@ Window window;
 
 ### window.hpp
 
-Praticamente, esse arquivo não houve alterações ao window.hpp do Poligonos Regulares.
+Praticamente, esse arquivo não houve alterações ao window.hpp do Poligonos Regulares. Smente houve a inclusão de 3 variáveis gloabais que serão utilizadas nos sliders para alterar os valores de deslocamento nos eixos x e y (presentes nas linhas 33 e 35), e o tamanho do "lápis" (presente na linha 31).
+
+~~~C++
+  float escala{0.01};
+
+  float eixoX{0.0};
+
+  float eixoY{0.0};
+~~~
+
 
 ### window.cpp
 
