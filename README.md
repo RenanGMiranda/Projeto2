@@ -73,7 +73,7 @@ Primeiramente criamos um lápis (com 30 lados) através da composição de triâ
  // Criação de um lápis com 30 lados
   auto const sides{intDist(m_randomEngine)};
   setupModel(sides);
- 
+~~~
 
 Aqui é utilizado as variáveis globais de posição que serão alteradas através dos sliders criados no onPaintUI.
 
