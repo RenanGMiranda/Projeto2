@@ -1,7 +1,7 @@
 # Projeto2 - Projeto de Computação Gráfica
 ## Lousa Mágica
 
-Para esse segundo projeto para a disciplina de Computação Gráfica, foi feito uma LOusa Mágica que é possível desenhar através dos Sliders (Eixo_X e Eixo_Y) que movimentam o "lápis" nos eixos x e y.
+Para esse segundo projeto para a disciplina de Computação Gráfica, foi feito uma Lousa Mágica (baseado no código fonte dos Polígonos Regulares apresentado em sala de aula) que é possível desenhar através dos Sliders (Eixo_X e Eixo_Y) que movimentam o "lápis" nos eixos x e y.
 
 Também é possível aumentar o tamanho da ponta do "lápis" através do slider Tamanho.
 
